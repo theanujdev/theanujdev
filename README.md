@@ -15,7 +15,7 @@ I'm pre-final year CSE undergraduate at Army Institute of Technology, Pune. I'm 
 
 I love mentoring curious minds, public speaking, building projects, participating in hackathons, working on product management strategies, meeting new people and playing chess, basketball, etc.
 
-### Technical Skills :
+### 🛠 Technical Skills :
 
 • **Programming** : JavaScript, Python (Web Scraping, Tkinter, CLI, scripting/automation), Rust*  
 • **Frontend** : HTML, SCSS, TypeScript, React, Bootstrap, Tailwind CSS, Next.js, PWAs  
