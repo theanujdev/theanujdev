@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/header.gif" alt="theanujdev header">
 
-<h1 align="center"><br>Hi there, I'm Anuj Sharma 👋<br></h1>
-<h2 align="center">Full Stack Developer | JavaScript & Python | UI/UX</h2>
+<h2 align="center"><br>Hi there, I'm Anuj Sharma 👋<br></h2>
+<h3 align="center">Full Stack Developer | JavaScript & Python | UI/UX</h3>
 <br>
 <p align = "center">
-<a href = "https://www.linkedin.com/in/theanujdev"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/linkedin-icon.svg" height = "30"></a>&nbsp&nbsp&nbsp&nbsp
-<a href = "https://www.instagram.com/theanujdev"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/instagram.svg" height = "30"></a>&nbsp&nbsp&nbsp&nbsp
-<a href = "https://twitter.com/theanujdev"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/twitter.svg" height = "30"></a>&nbsp&nbsp&nbsp&nbsp
-<a href = "https://www.discord.com/users/775586612972093470"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/discord-icon.svg" height = "30"></a>&nbsp&nbsp&nbsp&nbsp
-<a href = "mailto:theanujmail@gmail.com"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/google-gmail.svg" height = "30"></a>
+<a href = "https://www.linkedin.com/in/theanujdev"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/linkedin-icon.svg" height = "28"></a>&nbsp&nbsp&nbsp&nbsp
+<a href = "https://www.instagram.com/theanujdev"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/instagram.svg" height = "28"></a>&nbsp&nbsp&nbsp&nbsp
+<a href = "https://twitter.com/theanujdev"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/twitter.svg" height = "28"></a>&nbsp&nbsp&nbsp&nbsp
+<a href = "https://www.discord.com/users/775586612972093470"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/discord-icon.svg" height = "28"></a>&nbsp&nbsp&nbsp&nbsp
+<a href = "mailto:theanujmail@gmail.com"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/google-gmail.svg" height = "28"></a>
 </p>
 
 I'm pre-final year CSE undergraduate at Army Institute of Technology, Pune. I'm a self-taught full-stack developer and worked with many clients and startups/companies during my internship, freelance and contract work.
