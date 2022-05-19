@@ -10,6 +10,7 @@
 <a href = "https://www.discord.com/users/775586612972093470"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/discord-icon.svg" height = "28"></a>&nbsp&nbsp&nbsp&nbsp
 <a href = "mailto:theanujmail@gmail.com"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/google-gmail.svg" height = "28"></a>
 </p>
+<br>
 
 I'm pre-final year CSE undergraduate at Army Institute of Technology, Pune. I'm a self-taught full-stack developer and worked with many clients and startups/companies during my internship, freelance and contract work.
 
