@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/header.gif" alt="theanujdev header">
 
-<h2 align="center"><br>Hi there, I'm Anuj Sharma 👋<br></h2>
+<h1 align="center"><br>Hi, I'm Anuj Sharma 👋<br></h1>
 <h3 align="center">Full Stack Developer | JavaScript & Python | UI/UX</h3>
 <br>
 <p align = "center">
