@@ -12,7 +12,7 @@
 </p>
 <br>
 
-I'm a pre-final year CSE undergraduate at the Army Institute of Technology, Pune. I'm a self-taught full-stack developer and have worked with many clients and startups/companies during my internship, freelancing, and contract work.
+I'm a final year CSE undergraduate at the Army Institute of Technology, Pune. I'm a self-taught full-stack developer and have worked with many clients and startups/companies during my internship, freelancing, and contract work.
 
 I love mentoring curious minds, public speaking, building projects, participating in hackathons, working on product management strategies, meeting new people, playing chess, basketball, etc.
 
