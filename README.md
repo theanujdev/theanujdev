@@ -18,7 +18,7 @@ I have graduated from the Army Institute of Technology, Pune in 2023. I've worke
 
 I have had the privilege of working with diverse clients and startups, delivering high-quality software that has made a meaningful difference. Proficient in web, desktop, and Android app development, I have developed scalable and efficient applications that meet customer needs.
 
-I love mentoring curious minds, public speaking, building projects, participating in hackathons, working on product management strategies, meeting new people, playing chess, basketball, etc. At Veritas Technologies LLC, I specialize in crafting user-friendly interfaces, boosting software efficiency, and driving forward innovative solutions to improve product reliability and user satisfaction. I am always seeking opportunities to expand my knowledge and take on new challenges.
+I love mentoring curious minds, public speaking, building projects, participating in hackathons, working on product management strategies, meeting new people, playing chess, basketball, etc. I am always seeking opportunities to expand my knowledge and take on new challenges.
 
 If you're in search of a versatile Full Stack Developer with a proven track record of success, feel free to connect with me. Let's collaborate and create impactful software experiences together!
 
