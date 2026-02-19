@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/header.gif" alt="theanujdev header">
 
 <h1 align="center"><br>Hi, I'm Anuj Sharma 👋<br></h1>
-<h3 align="center">Full Stack Developer | JavaScript & Python | UI/UX</h3>
+<h3 align="center"> Software Engineer | Building AI Apps | Full Stack Developer </h3>
 <br>
 <p align = "center">
 <a href = "https://www.linkedin.com/in/theanujdev"><img src = "https://raw.githubusercontent.com/theanujdev/theanujdev/master/assets/linkedin-icon.svg" height = "28"></a>&nbsp&nbsp&nbsp&nbsp
@@ -12,23 +12,19 @@
 </p>
 <br>
 
-Hi, I'm Anuj Sharma, a Software Engineer currently working at Veritas Technologies LLC. As a Full Stack Developer, I work on web app, desktop, and Android development. 
+Software Engineer with 2.5+ years of experience in product-based environments, specializing in frontend development.
 
-I have graduated from the Army Institute of Technology, Pune in 2023. I've worked as a software intern at IIT Bombay on digital pathology device and scanner system. I bring a strong foundation and a passion for creating impactful software solutions.
+Skilled in technologies such as React, Angular, JavaScript, Nodejs, Django, APIs, AWS, AI product development, RAG, Prompt Engineering, etc.
 
-I have had the privilege of working with diverse clients and startups, delivering high-quality software that has made a meaningful difference. Proficient in web, desktop, and Android app development, I have developed scalable and efficient applications that meet customer needs.
+Proven track record in delivering high-quality features, optimizing performance, and driving innovation across web, desktop, and mobile applications. Successfully led projects that reduced costs, improved scalability, and leveraged AI for enhanced efficiency.
 
-I love mentoring curious minds, public speaking, building projects, participating in hackathons, working on product management strategies, meeting new people, playing chess, basketball, etc. I am always seeking opportunities to expand my knowledge and take on new challenges.
-
-If you're in search of a versatile Full Stack Developer with a proven track record of success, feel free to connect with me. Let's collaborate and create impactful software experiences together!
+Passionate about mentoring, public speaking, hackathons, and product strategy. Outside of work, I enjoy networking, chess, and basketball.
 
 ### 🛠 Technical Skills :
 
-• **Programming** : JavaScript, Python (Web Scraping, Tkinter, CLI, scripting/automation), Go lang, Rust*  
-• **Frontend** : HTML, SCSS, TypeScript, React, Bootstrap, Tailwind CSS, Next.js, PWAs, Astro  
-• **Backend** : ExpressJS, Socketio, GraphQL, Headless CMS, Mongoose, Prisma, Django*  
-• **DevOps** : Docker, DigitalOcean, Heroku, GCP, Nginx*, GitHub actions*, AWS*  
-• **Databases** : MongoDB, PostgreSQL, MySQL, Redis, SQLite
-• **UI/UX** : Figma, Adobe XD, Design principles, Blender*  
-• **Tools** : Git, GitHub, Gitlab, Postman, Firebase, Jira  
-• **Miscellaneous** : Electron, Technical writer, WebRTC, React Native, OpenCV*
+- **AI and Cloud:** AI Application Development, LLM Integration, Prompt Engineering, RAG Pipelines, LangChain, AWS, GCP, DigitalOcean, Firebase
+- **Programming Languages:** JavaScript (ES6+), TypeScript, Python (Automation, Web Scraping, CLI, Tkinter), Go lang, SQL, Bash
+- **Frontend Development:** React, Next.js, Angular, Astro, React Native, PWAs, HTML, SCSS, Tailwind CSS, Figma
+- **Backend and APIs:** Node.js, Express.js, Nest.js, Django, FastAPI, GraphQL, Socket.io, Headless CMS, Mongoose, Prisma
+- **DevOps:**  Docker, AWS, GCP, DigitalOcean, Heroku, Nginx, GitHub Actions, Linux
+- **Databases and Tools:**  PostgreSQL, MongoDB, Redis, SQLite, Git, GitHub, GitLab, Postman, Linux, Electron, WebRTC
